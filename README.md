@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in programming of any king But these days I am sprending my time on my new hitech Commodore 64 LOL.
+- 👀 I’m interested in programming of any kind But these days I am spending my time on my new hitech Commodore 64 LOL.
 - 🌱 I’m currently learning 6502 Assembly and Commodore peripherals.
 - 💞️ I’m looking to collaborate on Not really anything for now.
 - 📫 How to reach me Just leave me a note on the forum.
